@@ -25,14 +25,3 @@ Prueba de concepto de comunicación entre un nodo sensor y un nodo de cómputo:
    ```
 3. Mueve algo frente al sensor PIR y deberías ver el estado impreso en consola.
 
-## Documentación
-
-El documento técnico completo de diseño (modelo matemático, arquitectura,
-diagramas UML, protocolo de comunicación) está en `docs/`.
-
-## Próximos pasos (Corte 2)
-
-- Descubrimiento entre más de dos nodos.
-- Registro de recursos / salones.
-- Propagación de estado entre varios nodos de cómputo.
-- Panel de monitoreo real.
